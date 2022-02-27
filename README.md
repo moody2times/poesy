@@ -30,3 +30,13 @@ My works are categorized into *haikus*, *sonnets* and *couplets*. But I have poe
     - say what haikus are here and include example screenshot
 * sonnets
     - say what sonnets are here and include example screenshot
+
+<br>
+
+## STATS
+
+| CATEGORIES | NUMBER OF WORKS |
+| :--- | ---: |
+| couplets | 4 |
+| haikus | 2 |
+| sonnets | 17 |
