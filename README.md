@@ -5,14 +5,14 @@
 
 <br>
 
-//TODO: Include a live link to voicesnet profile
-LIVE LINK: []()
-<br>
-
 ## OVERVIEW
 
 This is a repository of all the couplets, haikus, sonnets and other poems that I have written. I have published some of them in Voicesnet. However, with the passage of time—as with all things, I have modified my original wordings. In some cases, I have completely rewritten some, modified a few lines, reworded parts and so on.
 
+<br>
+
+//TODO: Include a live link to voicesnet profile
+LIVE LINK: []()
 <br>
 
 ## CATEGORIES
