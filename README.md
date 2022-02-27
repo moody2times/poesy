@@ -18,3 +18,14 @@ This is a repository of all the couplets, haikus, sonnets and other poems that I
 ## CATEGORIES
 
 My works are categorized into *haikus*, *sonnets* and *couplets*. But I have poems that are in another category than these. I will be adding them to this repository incrementally.
+
+<br>
+
+## FEATURES
+
+* couplets
+    - say what couplets are here and include example screenshot
+* haikus
+    - say what haikus are here and include example screenshot
+* sonnets
+    - say what sonnets are here and include example screenshot
