@@ -21,7 +21,6 @@ My works are categorized into *haikus*, *sonnets* and *couplets*. But I have poe
 
 <br>
 
-//TODO: Do the tasks below
 ## FEATURES
 
 * couplets
@@ -66,3 +65,5 @@ My works are categorized into *haikus*, *sonnets* and *couplets*. But I have poe
 | couplets | 4 |
 | haikus | 2 |
 | sonnets | 17 |
+
+<br>
