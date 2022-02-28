@@ -27,7 +27,12 @@ My works are categorized into *haikus*, *sonnets* and *couplets*. But I have poe
 * couplets
     - say what couplets are here and include example screenshot
 * haikus
-    - According to [Wikipedia](https://en.wikipedia.org/wiki/Haiku) haiku originated from Japan. To be honest, I started writing haikus after reading a manga—japanese comic, about the shinsengumi. I was impressed with the 5 7 5 style and simplicity. The haiku has 3 lines, the first line is 5 syllables, second is 7 syllables and the third line also 5 syllables. 
+    - According to [Wikipedia](https://en.wikipedia.org/wiki/Haiku) haiku originated from Japan. To be honest, I started writing haikus after reading a manga—japanese comic, about the shinsengumi. I was impressed with the 5 7 5 style and simplicity. The haiku has 3 lines, the first line is 5 syllables, second is 7 syllables and the third line also 5 syllables. Below is my haiku 1 :-
+    ```
+        Each day by love's might
+        I am gaining a new height
+        Than eagles can fly.
+    ```
 * sonnets
     - say what sonnets are here and include example screenshot
 
