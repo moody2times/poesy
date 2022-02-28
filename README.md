@@ -11,8 +11,7 @@ This is a repository of all the couplets, haikus, sonnets and other poems that I
 
 <br>
 
-//TODO: Include a live link to voicesnet profile
-LIVE LINK: []()
+LIVE LINK: [https://www.voicesnet.com/user/documents](https://www.voicesnet.com/user/documents)
 <br>
 
 ## CATEGORIES
