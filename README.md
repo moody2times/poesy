@@ -12,6 +12,7 @@ This is a repository of all the couplets, haikus, sonnets and other poems that I
 <br>
 
 LIVE LINK: [https://www.voicesnet.com/user/documents](https://www.voicesnet.com/user/documents)
+
 <br>
 
 ## CATEGORIES
@@ -26,7 +27,7 @@ My works are categorized into *haikus*, *sonnets* and *couplets*. But I have poe
 * couplets
     - say what couplets are here and include example screenshot
 * haikus
-    - say what haikus are here and include example screenshot
+    - According to [Wikipedia](https://en.wikipedia.org/wiki/Haiku) haiku originated from Japan. To be honest, I started writing haikus after reading a manga—japanese comic, about the shinsengumi. I was impressed with the 5 7 5 style and simplicity. The haiku has 3 lines, the first line is 5 syllables, second is 7 syllables and the third line also 5 syllables. 
 * sonnets
     - say what sonnets are here and include example screenshot
 
