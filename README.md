@@ -64,6 +64,6 @@ My works are categorized into *haikus*, *sonnets* and *couplets*. But I have poe
 | :--- | ---: |
 | couplets | 4 |
 | haikus | 2 |
-| sonnets | 17 |
+| sonnets | 18 |
 
 <br>
