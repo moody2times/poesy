@@ -25,7 +25,11 @@ My works are categorized into *haikus*, *sonnets* and *couplets*. But I have poe
 ## FEATURES
 
 * couplets
-    - say what couplets are here and include example screenshot
+    - According to [Wikipedia](https://en.wikipedia.org/wiki/Couplet) couplet usually consists of two successive lines that rhyme and have the same metre. It does not have to stand alone like the way I have written them in this repository. It could be any two successive line in a poem that rhymes and have the same metre. The couplet of mine below has a ten syllables metre :-
+    ```
+        Methinks God is God because He is just,
+        And men are not men because they are dust.
+    ```
 * haikus
     - According to [Wikipedia](https://en.wikipedia.org/wiki/Haiku) haiku originated from Japan. To be honest, I started writing haikus after reading a manga—japanese comic, about the shinsengumi. I was impressed with the 5 7 5 style and simplicity. The haiku has 3 lines, the first line is 5 syllables, second is 7 syllables and the third line also 5 syllables. Below is my haiku 1 :-
     ```
