@@ -38,7 +38,7 @@ My works are categorized into *haikus*, *sonnets* and *couplets*. But I have poe
         Than eagles can fly.
     ```
 * sonnets
-    - say what sonnets are here and include example screenshot
+    - A sonnet as I know it from reading those of William Shakespeare is a poem of 14 lines with a strict rhyme scheme and structure. You can learn more at [Wikipedia](https://en.wikipedia.org/wiki/Sonnet). 
 
 <br>
 
