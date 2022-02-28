@@ -39,21 +39,21 @@ My works are categorized into *haikus*, *sonnets* and *couplets*. But I have poe
 * sonnets
     - A sonnet as I know it from reading those of William Shakespeare is a poem of 14 lines with a strict rhyme scheme and structure. You can learn more at [Wikipedia](https://en.wikipedia.org/wiki/Sonnet). My sonnet_6 demonstrates :-
     ```
-        I never considered you a dear friend
-        In despite of the times and things we shared
-        But now that we each take separate bend
-        In this new road, I've come to know I cared.
-        For we have walked together for so long
-        I no longer know how to walk alone
-        'Twas your hand in mine that made me so strong
-        To come this far and to climb every stone.
-        In this new road, we needs must say g'byes
-        Time has decided we cannot appeal
-        Distance will take you away from my eyes
-        But the you in my heart, nothing can steal.
+        There is one I love but must not confess
+        So I am burned daily by desire, 
+        'Tis not fear to fail or doubt of success
+        But I must not vent my inner fire. 
+        Neither is my silence for want of words
+        To give her a window into my heart, 
+        Though I do not boast a wealth of words
+        And you may prove me by this piece of art. 
+        What reason is there for me not to woo
+        Till she confess to approve of me? 
+        Except when she smile or pine or coo
+        It is her sweetheart that she longs to see. 
 
-            Should I glad or sad to know at the end,
-            That you in all this time were a dear friend?
+            Here is my grief, her sweetheart is not me, 
+            I should not confess to what cannot be.
     ```
 
 <br>
