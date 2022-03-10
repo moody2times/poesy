@@ -66,4 +66,6 @@ My works are categorized into *haikus*, *sonnets* and *couplets*. But I have poe
 | haikus | 2 |
 | sonnets | 18 |
 
+I have been read 73172 times at https://www.voicesnet.com/user/documents
+
 <br>
